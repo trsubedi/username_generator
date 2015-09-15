@@ -15,3 +15,7 @@ end
 def polly_wanna
   "crackercrackercracker"
 end
+
+def after_you
+	"no, after you"
+end
